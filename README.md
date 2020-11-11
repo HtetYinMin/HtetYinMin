@@ -1,6 +1,6 @@
-### Hi there, I'm Htet Yin Min aka Jack. 👋
+# Hi there, I'm Htet Yin Min aka Jack. 👋
 
-## I'm a Student, Developer, and sometime Gamer!
+## I'm a Student, Developer, and sometimes Gamer!
 
 - 🌱 I’m currently learning everything. 🤣
 - ⚡ I love to watch movie and play game.
