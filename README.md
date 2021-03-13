@@ -8,6 +8,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Htet Yin Min | Twitter" width="22px" src="https://user-images.githubusercontent.com/51188508/111020977-d3e39400-83f7-11eb-9d69-0162e8299db0.png" />][facebook]
 [<img align="left" alt="Htet Yin Min | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Htet Yin Min | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Htet Yin Min | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -35,7 +36,7 @@
 
 </details>
 
-
+[facebook]: https://www.facebook.com/HtetYinMin.Jack
 [twitter]: https://twitter.com/realHtetYinMin
 [instagram]: https://www.instagram.com/htetyinmin
 [linkedin]: https://www.linkedin.com/in/htet-yin-min-6a39a71b3
