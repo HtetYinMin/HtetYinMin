@@ -6,6 +6,7 @@
 - ⚡ I love to watch movie and play game.
 
 <br>
+
 ### Connect with me:
 
 [<img align="left" alt="Htet Yin Min | Facebook" width="30px" src="https://user-images.githubusercontent.com/51188508/111021668-7140c700-83fc-11eb-8752-9455805ef62f.png" />][facebook]
@@ -24,10 +25,9 @@
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/51188508/111021713-b533cc00-83fc-11eb-941d-7fd745623185.png" />
-<img align="left" alt="Terminal" width="30px" src="<img src="https://img.icons8.com/color/48/000000/console.png"/>" />
+<img align="left" alt="Terminal" width="30px" src="https://img.icons8.com/fluent/48/000000/run-command.png" />
 
-<br>
-<br>
+<br><br>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
