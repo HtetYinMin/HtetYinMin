@@ -8,10 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Htet Yin Min | Twitter" width="22px" src="https://user-images.githubusercontent.com/51188508/111020977-d3e39400-83f7-11eb-9d69-0162e8299db0.png" />][facebook]
-[<img align="left" alt="Htet Yin Min | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Htet Yin Min | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Htet Yin Min | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Htet Yin Min | Twitter" width="30px" src="https://user-images.githubusercontent.com/51188508/111020977-d3e39400-83f7-11eb-9d69-0162e8299db0.png" />][facebook]
+[<img align="left" alt="Htet Yin Min | Instagram" width="30px" src="https://user-images.githubusercontent.com/51188508/111021559-9b45b980-83fb-11eb-91a6-f45c3cf41123.png" />][instagram]
+[<img align="left" alt="Htet Yin Min | Twitter" width="30px" src="https://user-images.githubusercontent.com/51188508/111021576-c3cdb380-83fb-11eb-8e42-1ead753fd43f.png" />][twitter]
+[<img align="left" alt="Htet Yin Min | LinkedIn" width="30px" src="https://user-images.githubusercontent.com/51188508/111021591-e9f35380-83fb-11eb-9622-9fa7fc9b9400.png" />][linkedin]
 
 <br>
 
